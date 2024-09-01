@@ -5,16 +5,16 @@
     {
       "src": "capy.jpg",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/jpeg"
+      "type": "images/jpeg"
     },
     {
       "src": "capy.jpg",
-      "type": "image/jpeg",
+      "type": "images/jpeg",
       "sizes": "192x192"
     },
     {
       "src": "capy.jpg",
-      "type": "image/jpeg",
+      "type": "images/jpeg",
       "sizes": "512x512"
     }
   ],
