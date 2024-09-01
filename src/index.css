@@ -1,39 +1,3 @@
-.booklist {
-    width: 90vw;
-    max-width: 1170px;
-    margin: 5rem auto;
-    display: grid;
-    gap: 2rem;
-}
-
-.book {
-    background: #a69d9d7b;
-    border-radius: 1rem;
-    padding: 2rem;
-    text-align: center;
-}
-
-.book img {
-    width: 100%;
-    object-fit: cover;
-    background-color: #908383;
-}
-
-.book h2 {
-    margin-top: 1rem;
-    font-size: 1rem;
-}
-@media screen and (min-width: 768px) {
-    .booklist {
-        grid-template-columns: repeat(3, 1fr);
-        align-items: start;
-    }
-}
-
-.book p {
-    margin: 1rem 0 0.5rem;
-}
-
 body {
     background-color: #908383;
     font-family: Arial, sans-serif;
